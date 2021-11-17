@@ -1,6 +1,5 @@
-- 🤍 Hi, I’m @ralucasuciuart. I'm a web and graphic designer based in Cluj, Romania.
-- 💻 I’m interested in learning Front End Development (& more).
-- ✨ I’m currently learning Javascript.
+- 🤍 Hi, I’m Raluca. I'm a web designer/developer and artist hybrid. 
+- 💻 I’m currently learning Front End Development.
 - 💞️ I’m interested to collaborate on web design and dev projects.
 - 💌 You can reach me by email - ralucasuciuart@gmail.com
 
